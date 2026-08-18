@@ -4,13 +4,20 @@
 
 I’m a pharmacist developing my career in data analytics, with an interest in using data to understand problems, uncover patterns, and support better decisions.
 
-[LinkedIn](www.linkedin.com/in/ajayishefiat) • [Email](Shefiatololade02@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+  <a href="mailto:Shefiatololade02@gmail.com">
+    <img src="https://shields.io" alt="Email">
+  </a>
+</p>
 
 ---
 
 ## About Me
 
-My background is in **pharmacy, healthcare, public health, research, and community engagement**, and I’m increasingly exploring how data can be used to solve practical problems across these areas.
+My background is in **pharmacy, public health, research, Supply chain & Logistics, and community engagement**, and I’m increasingly exploring how data can be used to solve practical problems across these areas.
 
 I’m particularly interested in the space where **healthcare knowledge meets data analytics** — from pharmaceutical and public health data to supply chains and business intelligence.
 
