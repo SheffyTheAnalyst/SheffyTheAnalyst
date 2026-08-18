@@ -5,14 +5,16 @@
 I’m a pharmacist developing my career in data analytics, with an interest in using data to understand problems, uncover patterns, and support better decisions.
 
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/her-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:Shefiatololade02@gmail.com">
-    <img src="https://shields.io" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/SheffyTheAnalyst" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-
 ---
 
 ## About Me
