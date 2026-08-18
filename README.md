@@ -138,9 +138,9 @@ I’m building my skills one project at a time and documenting what I learn alon
 
 If you're interested in **healthcare analytics, public health, pharmaceutical data, supply chain analytics, or data-driven problem solving**, I'd be happy to connect.
 
-**LinkedIn:** [www.linkedin.com/in/ajayishefiat]
-**Email:** [Shefiatololade02@gmail.com]
-**GitHub:** [https://github.com/SheffyTheAnalyst]
+![**LinkedIn:**](www.linkedin.com/in/ajayishefiat)
+![**Email:**](Shefiatololade02@gmail.com)
+![**GitHub:**](https://github.com/SheffyTheAnalyst)
 
 ---
 
