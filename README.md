@@ -55,27 +55,26 @@ I’m currently building practical projects, strengthening my analytical skills,
 
 ## Featured Projects
 
-### 📊 [PROJECT NAME]
-
+### 📊### 📊 Sales Performance Analysis
 **Problem:**
-[Brief description of the business or analytical problem]
+Analyze retail sales transactions to identify top revenue/profit-generating products, track financial trends (revenue, cost, profit) over time, and understand order status patterns (Completed, Pending, Returned).
 
 **Tools:**
-[Excel / Power Query / SQL / Power BI / Python]
+Excel (Tables, XLOOKUP, PivotTables, Slicers, Conditional Formatting, Descriptive Statistics)
 
 **What I did:**
-
-* [Data cleaning / transformation]
-* [Exploratory analysis]
-* [KPI development]
-* [Dashboard / visualization]
+* Cleaned and structured raw sales data (duplicate removal, conditional formatting for missing values, converted to Excel Table)
+* Built calculated fields (Revenue, Cost, Profit) using XLOOKUP to pull cost percentages from a reference sheet
+* Ran descriptive statistics on Revenue/Cost/Profit to check for anomalies before analysis
+* Built PivotTables to answer each business question (profitability by product/category, trends over time, order status breakdown)
+* Designed an interactive dashboard with Slicers for filtering by category, country, payment method, and order status
 
 **Key insight:**
-[ADD KEY INSIGHT]
+Revenue peaked in December, pointing to strong year-end demand. Books was the top-performing category overall, with Cereal (Groceries) the single most profitable product. However, 48.3% of orders were returned — nearly as many as were completed (51.7%) — flagging returns as an urgent area for the sales team to investigate.
 
-**Repository:** [ADD LINK]
-**Dashboard/Demo:** [ADD LINK]
+**Repository:** [github.com/SheffyTheAnalyst/Sales-Performance-Analysis](https://github.com/SheffyTheAnalyst/Sales-Performance-Analysis)
 
+**Dashboard/Demo:** [ADD LINK — e.g. a link to the dashboard screenshot/image in your repo, or a Loom/video walkthrough if you have one]
 ---
 
 ### 📦 [SUPPLY CHAIN PROJECT]
