@@ -5,7 +5,7 @@
 I’m a pharmacist developing my career in data analytics, with an interest in using data to understand problems, uncover patterns, and support better decisions.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/her-username" target="_blank">
+  <a href="https://www.linkedin.com/in/ajayishefiat" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:Shefiatololade02@gmail.com">
