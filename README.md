@@ -74,7 +74,7 @@ Revenue peaked in December, pointing to strong year-end demand. Books was the to
 
 **Repository:** [github.com/SheffyTheAnalyst/Sales-Performance-Analysis](https://github.com/SheffyTheAnalyst/Sales-Performance-Analysis)
 
-**Dashboard/Demo:** [ADD LINK — e.g. a link to the dashboard screenshot/image in your repo, or a Loom/video walkthrough if you have one]
+**Dashboard/Demo:** ![Final Dashboard](https://github.com/SheffyTheAnalyst/Sales-Performance-Analysis/blob/21c56746b4e2c0e27e2690fdb18771c30fd6ff5e/Screenshot(30).png)
 ---
 
 ### 📦 [SUPPLY CHAIN PROJECT]
